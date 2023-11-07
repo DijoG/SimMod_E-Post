@@ -4,4 +4,5 @@ Jupyter Notebook exercises and solutions for complex simulation modelling of ele
 ***ipynb_Loesung*** directory contains the solutions.\
 1) Do consider a careful interpretation of the Model.py solution.\
 2) Please, do not change the code.\
+
 Have fun!
